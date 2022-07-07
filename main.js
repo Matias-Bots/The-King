@@ -72,7 +72,7 @@ const { state, saveState } = useSingleFileAuthState(global.authFile)
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
-  browser: ['SIMPLE-BOT','Chrome','1.0.0'],
+  browser: ['The King - Bot','Chrome','1.0.0'],
   // logger: pino({ level: 'trace' })
 }
 
