@@ -44,8 +44,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf session.data.json
 > npm start
 ```
-
-## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Matias-Bots](https://github.com/Matias-Bots)](https://github.com/Matias-Bots) 
-
 `The King Bot __________ By Matias`
