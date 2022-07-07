@@ -46,6 +46,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Matía](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/Matias-Bots) 
+[![Matía](https://github.com/Matias-Bots)](https://github.com/Matias-Bots) 
 
 `The King Bot __________ By Matias`
